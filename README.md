@@ -3,84 +3,95 @@
 </div>
 
 <div align="center">
-  <a href="https://ekjot.me">Website</a> •
-  <a href="https://linkedin.com/in/ekjot-singh-thefirst">LinkedIn</a> •
-  <a href="https://huggingface.co/ekjotsingh">Hugging Face</a> •
-  <a href="mailto:ekjotmakhija@gmail.com">Email</a>
+  📍 <strong>India</strong> | 🤖 <strong>Bare-Metal to Frontier AI</strong> | 🚀 <strong>Founder @ Metanthropic & TealBase</strong>
 </div>
 
 <br/>
 
-I'm an undergrad Computer Science student and researcher based in India. If a system feels like a black box, I usually try to pry it open. I spend my time exploring the extremes of the software stack—from writing custom object-relational database engines in C/C++ to architecting open-weight AI reasoning models. 
+<div align="center">
 
-Currently, I'm the Founder & CEO of **[Metanthropic Lab](https://metanthropic.vercel.app/)**, researching deterministic AI alignment, and the Lead Developer for **[TealBase](https://github.com/tealbase/tealbase)**, an open-source Firebase alternative built on PostgreSQL and Go.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+</div>
 
-### 🛠️ What I'm Building
+> Deep in systems engineering and AI architecture mode. Most developers live comfortably within layers of abstractions—I prefer to tear them down. Exploring the extremes of the software stack, from custom database engines to open-weight reasoning models.
 
-I believe the best way to understand an abstraction is to build it yourself. Here is what I am currently working on:
+🧬 **[Metanthropic Lab](https://metanthropic.vercel.app/)** – Independent AI research org tackling model alignment, reasoning, and bare-metal efficiency.
 
-#### 1. Bare Metal & Systems Engineering
-* **[VostSQL](https://github.com/ekjotsinghmakhija/vostsql):** I wanted to understand how databases actually work, so I wrote a custom object-relational DB engine from scratch in C/C++ with strict query parsing and hardware-optimized disk I/O.
-* **[httpfromtcp](https://github.com/ekjotsinghmakhija/httpfromtcp):** A low-level HTTP/1.1 server engineered entirely over raw TCP sockets in Go. Manual protocol parsing, raw memory management, zero frameworks.
-* **[pg_listen](https://github.com/ekjotsinghmakhija/pg_listen):** An event-driven C library leveraging `libpq` to intercept asynchronous PostgreSQL `NOTIFY` signals with near-zero overhead.
-* **[SIM8086](https://github.com/ekjotsinghmakhija/sim8086):** A modular, cross-platform hardware emulator and assembler for the Intel 8086 microprocessor built in C++ and Qt 6.
-* **Core Open Source:** Occasional contributor to the **Linux Kernel** (memory management/syscalls), **TiDB** (distributed HTAP), and **Terraform** (SyntriFabric).
+## 🛠️ Current Projects
 
-#### 2. Artificial Intelligence & Research (Metanthropic Lab)
-* **[Arvi 20B](https://huggingface.co/metanthropic/arvi-20b):** Architected an open-weight Mixture-of-Experts (MoE) reasoning model matching frontier performance with only 3.6B active parameters.
-* **[M-NAAR (Neural Ablation via Attention Refraction)](https://metanthropic.vercel.app/research/m-naar):** Formulated a specification to safely delete specific knowledge from LLMs, aiming for a 0.00 hallucination rate.
-* **[Dataset Distillation]([https://metanthropic.vercel.app/](https://metanthropic.vercel.app/research/dataset-distillation)):** Implementing Linear Gradient Matching (DDPTECMGLGM) for cross-model generalization.
-* **[AhhCode](https://github.com/ekjotsinghmakhija/ahhcode):** An open-source AI coding assistant that turns the terminal into an autonomous pair programmer.
+- 🧠 **[Arvi 20B](https://metanthropic.vercel.app/research/arvi-20b)** - Open-weight MoE reasoning model matching frontier performance with only 3.6B active parameters.
+- ⚡ **[TealBase](https://github.com/tealbase/tealbase)** - Extreme concurrency Backend-as-a-Service (BaaS) built on Go and PostgreSQL with sub-50ms CDC pipelines.
+- 🔌 **[httpfromtcp](https://github.com/ekjotsinghmakhija/httpfromtcp)** - An HTTP/1.1 server built entirely over raw TCP sockets in Go—manual parsing, zero frameworks.
+- 🗄️ **[VostSQL](https://github.com/ekjotsinghmakhija/vostsql)** - Custom object-relational database engine built from scratch in C/C++.
+- 🔔 **[pg_listen](https://github.com/ekjotsinghmakhija/pg_listen)** - Event-driven C library leveraging `libpq` for async PostgreSQL NOTIFY signals.
+- 💾 **[SIM8086](https://github.com/ekjotsinghmakhija/sim8086)** - Modern cross-platform 8086 architecture emulator and assembler.
+- 🎥 **[Chromabase](https://github.com/ekjotsinghmakhija/chromabase)** - The "infinite storage glitch"—encoding and storing files inside video formats via Rust.
+- 🎯 **[M-NAAR Specification](https://metanthropic.vercel.app/research/m-naar)** - Neural Ablation via Attention Refraction to execute robust knowledge deletion and eliminate hallucinations.
 
-#### 3. Infrastructure & Tooling
-* **[TealBase](https://github.com/tealbase/tealbase):** Engineering the core DB engine, real-time WebSocket broadcasting (`realtime-js`), and secure JWT auth systems with Row Level Security. 
-* **[Chromabase](https://github.com/ekjotsinghmakhija/chromabase):** A powerful Rust CLI utility that encodes massive datasets into resilient video formats for infinite cloud storage bypass.
-* **[Wibes Check](https://github.com/ekjotsinghmakhija/wibes-check):** A comprehensive web intelligence engine designed for Open Source Intelligence (OSINT) gathering.
-
----
-
-### 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00E5FF/ekjotsinghmakhija" alt="Ekjot's Github Chart" width="800" />
 </div>
+
+## 🚀 What I'm Doing
+
+- **Mastering the metal** - Writing custom database engines, TCP servers, and event-driven C libraries.
+- **Pushing the AI frontier** - Training MoE routing models and developing deterministic neural ablation protocols at Metanthropic.
+- **Scaling infrastructure** - Bypassing standard HTTP polling with WebSockets and deep PostgreSQL RLS integrations.
+- **Writing about systems internals** - Documenting my architecture deep-dives and research on [ekjot.me](https://ekjot.me/blog).
+- **Pursuing B.S. in Computer Science** - Vellore Institute of Technology (VIT).
+
+## 📝 Latest Architecture Deep-Dives
+
+- [Arvi 20B: Democratizing Reasoning with Efficient MoEs](https://ekjot.me/blog/arvi-20b-moe-release)
+- [Solving the Unlearning Trilemma with M-NAAR](https://ekjot.me/blog/unlearning-trilemma-m-naar)
+- [VostSQL: Designing a Database Engine Architecture](https://ekjot.me/blog/vostsql-engine-architecture)
+- [Building an HTTP Server from Raw TCP Sockets](https://ekjot.me/blog/httpfromtcp-server)
+- [Fragility of Guardrails: Cognitive Jamming](https://ekjot.me/blog/fragility-of-guardrails)
+## 🌐 Connect
+
+[![Website](https://img.shields.io/badge/-ekjot.me-121212?style=flat-square&logo=vercel&logoColor=white)](https://ekjot.me)
+[![LinkedIn](https://img.shields.io/badge/-Ekjot_Singh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekjot-singh-thefirst)
+[![Hugging Face](https://img.shields.io/badge/-ekjotsingh-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ekjotsingh)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ekjotsinghmakhija)
+[![Email](https://img.shields.io/badge/-ekjotmakhija@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ekjotmakhija@gmail.com)
+
+---
+
+### 🏆 Milestones & Open Source
+
+- **Founder & CEO** at [Metanthropic Lab](https://metanthropic.vercel.app/)
+- **Lead Developer** for [TealBase](https://github.com/tealbase/tealbase)
+
+### 🧠 Philosophy
+
+> *"To build robust artificial intelligence, you must first master the hardware and infrastructure it runs on."* I build tools to solve the bottlenecks I encounter, from the silicon level up to frontier reasoning models.
+
+<details>
+<summary><b>Random Facts</b></summary>
+
+- Replaced an entire backend ecosystem for a project just because standard polling wasn't fast enough for my liking.
+- Finds reading Linux Kernel source code genuinely relaxing.
+- Obsessed with designing the perfect, traffic-free layouts in *Cities: Skylines 2* when I'm not compiling C++.
+- Prefers raw `libpq` over heavy ORMs any day of the week.
+
+</details>
+
 <br/>
-
----
-
-## What I'm Doing
-
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Rapid prototyping** - Full projects in days, not months
-
----
-
-### 📝 Recent Writing & Architecture Deep-Dives
-
-I document my research, system architectures, and the things that break along the way on my blog. 
-
-* [**VostSQL: DB Engine Architecture**](https://ekjot.me/blog/vostsql-engine-architecture) — Re-engineering object-relational databases for modern instruction frames.
-* [**HTTP 1.1 from Scratch over TCP**](https://ekjot.me/blog/httpfromtcp-server) — Engineering a custom server over raw TCP sockets in Go.
-* [**Solving the Unlearning Trilemma with M-NAAR**](https://ekjot.me/blog/unlearning-trilemma-m-naar) — Achieving 0.00 hallucination rates via attention refraction.
-* [**Chromabase: Filesystems into Pixels**](https://ekjot.me/blog/chromabase-rust-storage) — Cloud storage bypass via video archives using Rust.
-* [**Fragility of Guardrails: Cognitive Jamming**](https://ekjot.me/blog/fragility-of-guardrails) — A mechanistic audit revealing how models spontaneously construct internal physics engines.
-* [**Why I Built Tealbase**](https://ekjot.me/blog/why-tealbase) — Solving the "Success Disaster" by bridging Firebase speed with Postgres power.
-
-➡️ *Read more on [ekjot.me/blog](https://ekjot.me/blog)*
-
----
-
-### 💻 The Stack
-
-**Languages:** `C`, `C++`, `Rust`, `Go`, `Python`, `TypeScript`, `SQL`, `Assembly`  
-**AI/ML:** `PyTorch`, `MoE Routing`, `Llama.cpp`, `Vision-Language Models`, `RLVR`, `TensorOps`  
-**Infrastructure:** `PostgreSQL Internals (libpq/RLS)`, `Linux Kernel`, `TCP/IP`, `Docker`, `Kubernetes`, `TiDB`  
-
-<br/>
-
-> *"To build robust artificial intelligence, you must first master the hardware and infrastructure it runs on."*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:161b22,100:0d1117&height=80&section=footer"/>
