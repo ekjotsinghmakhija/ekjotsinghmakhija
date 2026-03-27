@@ -13,7 +13,7 @@
 
 I'm an undergrad Computer Science student and researcher based in India. If a system feels like a black box, I usually try to pry it open. I spend my time exploring the extremes of the software stack—from writing custom object-relational database engines in C/C++ to architecting open-weight AI reasoning models. 
 
-Currently, I'm the Founder & CEO of **[Metanthropic Lab](https://metanthropic.vercel.app/)**, researching deterministic AI alignment, and the Lead Developer for **TealBase**, an open-source Firebase alternative built on PostgreSQL and Go.
+Currently, I'm the Founder & CEO of **[Metanthropic Lab](https://metanthropic.vercel.app/)**, researching deterministic AI alignment, and the Lead Developer for **[TealBase](https://github.com/tealbase/tealbase)**, an open-source Firebase alternative built on PostgreSQL and Go.
 
 ---
 
@@ -29,9 +29,9 @@ I believe the best way to understand an abstraction is to build it yourself. Her
 * **Core Open Source:** Occasional contributor to the **Linux Kernel** (memory management/syscalls), **TiDB** (distributed HTAP), and **Terraform** (SyntriFabric).
 
 #### 2. Artificial Intelligence & Research (Metanthropic Lab)
-* **Arvi 20B:** Architected an open-weight Mixture-of-Experts (MoE) reasoning model matching frontier performance with only 3.6B active parameters.
-* **M-NAAR (Neural Ablation via Attention Refraction):** Formulated a specification to safely delete specific knowledge from LLMs, aiming for a 0.00 hallucination rate.
-* **[Dataset Distillation](https://metanthropic.vercel.app/):** Implementing Linear Gradient Matching (DDPTECMGLGM) for cross-model generalization.
+* **[Arvi 20B](https://huggingface.co/metanthropic/arvi-20b):** Architected an open-weight Mixture-of-Experts (MoE) reasoning model matching frontier performance with only 3.6B active parameters.
+* **[M-NAAR (Neural Ablation via Attention Refraction)](https://metanthropic.vercel.app/research/m-naar):** Formulated a specification to safely delete specific knowledge from LLMs, aiming for a 0.00 hallucination rate.
+* **[Dataset Distillation]([https://metanthropic.vercel.app/](https://metanthropic.vercel.app/research/dataset-distillation)):** Implementing Linear Gradient Matching (DDPTECMGLGM) for cross-model generalization.
 * **[AhhCode](https://github.com/ekjotsinghmakhija/ahhcode):** An open-source AI coding assistant that turns the terminal into an autonomous pair programmer.
 
 #### 3. Infrastructure & Tooling
@@ -47,10 +47,13 @@ I believe the best way to understand an abstraction is to build it yourself. Her
   <img src="https://ghchart.rshah.org/00E5FF/ekjotsinghmakhija" alt="Ekjot's Github Chart" width="800" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekjotsinghmakhija&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=8b949e&icon_color=00E5FF&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekjotsinghmakhija&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=8b949e" width="48%" />
-</div>
+
+---
+
+## What I'm Doing
+
+- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
+- **Rapid prototyping** - Full projects in days, not months
 
 ---
 
