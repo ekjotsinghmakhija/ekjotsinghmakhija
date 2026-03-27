@@ -83,7 +83,7 @@
 <summary><b>Random Facts</b></summary>
 
 - Replaced an entire backend ecosystem for a project just because standard polling wasn't fast enough for my liking.
-- Finds reading Linux Kernel source code genuinely relaxing.
+- Playing Chess and Learning Go to declutter and start fresh
 - Obsessed with designing the perfect, traffic-free layouts in *Cities: Skylines 2* when I'm not compiling C++.
 - Prefers raw `libpq` over heavy ORMs any day of the week.
 
@@ -91,6 +91,3 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:161b22,100:0d1117&height=80&section=footer"/>
-</div>
