@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00E5FF&height=150&section=header&text=Ekjot%20Singh&fontSize=45&fontAlignY=38&desc=Building%20systems%20from%20the%20silicon%20up.&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff"/>
-</div>
+# Hi, I'm Ekjot 👋
 
 <div align="center">
   📍 <strong>India</strong> | 🤖 <strong>Bare-Metal to Frontier AI</strong> | 🚀 <strong>Founder @ Metanthropic & TealBase</strong>
